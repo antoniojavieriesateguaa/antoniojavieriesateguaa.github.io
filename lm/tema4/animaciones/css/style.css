@@ -1,0 +1,77 @@
+#filter1{
+	display: block;
+	width: 300px;
+	-webkit-filter: grayscale(1);
+	filter: contrast(23);
+	
+}
+
+#filter2{
+	    	display: block;
+		width: 300px;
+		-webkit-filter: grayscale(1);
+		filter: saturate(237);
+}
+
+#filter3{
+	display: block;
+    width: 300px;
+    -webkit-filter: brightness(59%);
+	filter:brightness(59%);
+}
+#filter1:hover {
+	animation: myAnimation 2s ease 1s 3 alternate forwards;
+}
+
+
+@keyframes myAnimation {
+  100%{
+	  transform: rotate(360deg);
+  }
+}
+
+@keyframes myAnimation2 {
+  100%{
+	  transform: rotate(180deg);
+  }
+}
+
+#filter2:hover{
+  animation-duration: 1s;
+  animation-name: myAnimation2;
+
+}
+
+
+
+#filter3:{
+    display:block;
+    width:500px;
+}
+#filter3:hover{
+    display:block;
+    
+    animation: ampliacion 2s ease 1s 3 alternate forwards;
+    
+}
+@keyframes ampliacion {
+    100% {
+        transform: scale(1,1);
+    }
+    50% {
+        transform: scale(2,2);
+    }
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+  
