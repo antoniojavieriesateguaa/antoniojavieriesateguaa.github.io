@@ -1,0 +1,26 @@
+#p1{
+	background-color: #eee;
+	width: 500px;
+	height: 200px;
+	border: 1px dotted black;
+	margin: 100px;
+	overflow: visible;
+}
+
+#p2{
+	background-color: #eee;
+	width: 500px;
+	height: 200px;
+	border: 1px dotted black;
+	margin: 100px;
+	overflow: hidden;
+}
+
+#p3{
+	background-color: #eee;
+	width: 500px;
+	height: 200px;
+	border: 1px dotted black;
+	margin: 100px;
+	overflow: scroll;
+}
