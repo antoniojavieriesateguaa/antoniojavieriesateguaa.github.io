@@ -1,0 +1,11 @@
+html
+{
+	background-image: url(http://maocorporativo.com.mx/images/wallpapersxl-fondos-blancos-con-azul-fondo-de-escritorio-diseno-blanco-29527-1366x768.jpg);
+	
+}
+p:nth-child(odd){
+background: grey;
+}
+p:nth-child(even){
+background: red;
+}
