@@ -1,0 +1,29 @@
+html
+{
+	background-image: url(http://maocorporativo.com.mx/images/wallpapersxl-fondos-blancos-con-azul-fondo-de-escritorio-diseno-blanco-29527-1366x768.jpg);
+	
+}
+#p1 {
+  border-style: solid;
+  border-color: red;
+  padding: 30px;
+}
+
+#p2 {
+  border-style: solid;
+  border-color: green;
+  padding: 30px;
+} 
+
+#p3 {
+  border-style: solid;
+  border-color: purple green red blue;
+  padding: 30px;
+} 
+
+#p4 {
+  border: dotted;
+  border-color:yellow;
+  padding: 30px;
+ 
+}
