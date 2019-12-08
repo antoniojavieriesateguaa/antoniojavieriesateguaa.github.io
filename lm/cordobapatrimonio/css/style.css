@@ -30,3 +30,7 @@ li a:hover {
 .active {
   background-color: red;
 }
+
+.cabecera{
+	background-image: url(http://img2.rtve.es/v/4881968?w=1600&preview=1544390132090.jpg);
+}
