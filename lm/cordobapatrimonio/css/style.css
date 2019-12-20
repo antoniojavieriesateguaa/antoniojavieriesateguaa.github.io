@@ -32,6 +32,6 @@ li a:hover {
 }
 
 .cabecera{
-	background-image: url(..\cordoba.png);
+	background-image: url(../cordoba.png);
 	padding: 80px;text-align:center;font-size: 80px;
 }
