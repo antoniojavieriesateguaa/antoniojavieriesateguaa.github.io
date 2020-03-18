@@ -39,7 +39,7 @@ grid-template-rows: 1fr;
   margin: 0;
 }
 
-@media all and (max-width: 500px) {
+@media all and (max-width: 650px) {
 .inicio { 
 
     grid-template-areas: 
