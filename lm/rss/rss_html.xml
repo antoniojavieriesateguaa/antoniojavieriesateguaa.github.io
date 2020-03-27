@@ -1,4 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<?php echo "\\n<?xml-stylesheet type="text/css" href=""; ?>
+<?php bloginfo(’stylesheet_directory’); ?>
+<?php echo "/rss.css" ?>"; ?>
 <rss>
 <channel>
 <title>Antonio Javier Quintero. Ejercicios HTML</title>
