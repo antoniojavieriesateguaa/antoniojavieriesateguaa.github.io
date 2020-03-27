@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+<channel>
+<title>Antonio Javier Quintero. Ejercicios HTML</title>
+<link>https://antoniojavieriesateguaa.github.io</link>
+<description>Mi página web</description>
+<item>
+<title>EJERCICIO 1.HTML</title>
+<link>https://antoniojavieriesateguaa.github.io/lm/tema3/tablas/calendarioescolar.html</link>
+<description>Tabla de horario escolar creada con HTML</description>
+</item>
+</channel>
+</rss>
