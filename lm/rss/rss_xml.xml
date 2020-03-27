@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://antoniojavieriesateguaa.github.io/lm/rss/rss.css" ?>
+<rss>
+<channel>
+<title>Antonio Javier Quintero. Ejercicios XML</title>
+<link>https://antoniojavieriesateguaa.github.io</link>
+<description>Mi página web</description>
+<item>
+<title>EJERCICIO 6.XML</title>
+<link>antoniojavieriesateguaa.github.io/lm/tema7/ej6.xml</link>
+<description>Ejercicio XML</description>
+</item>
+</channel>
+</rss>
