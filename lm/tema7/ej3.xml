@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<errores>
+<error id="1">
+<tipo>Aviso</tipo>
+<Cod>000001</Cod>
+<descripcion>Descripcion del errror</descripcion>
+<Localizacion>
+<fichero>Ej1.xmlfichero</fichero>
+<fila>3</fila>
+<columna>5</columna>
+</Localizacion>
+</error>
+<error id="2">
+<tipo>FATAL</tipo>
+<Cod>100001</Cod>
+<Localizacion>
+<fichero>Ej1.xmlfichero</fichero>
+<fila>3</fila>
+<columna>5</columna>
+</Localizacion>
+</error>
+</errores>
