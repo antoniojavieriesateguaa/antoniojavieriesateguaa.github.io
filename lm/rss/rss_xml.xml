@@ -22,7 +22,7 @@
 <link>https://antoniojavieriesateguaa.github.io/lm/tema7/ej2.xml</link>
 <description>Ejercicio XML</description>
   <title>EJERCICIO 1.XML</title>
-<link>https://antoniojavieriesateguaa.github.io/lm/tema7/ej1.xml</link>
+  <link><a>https://antoniojavieriesateguaa.github.io/lm/tema7/ej1.xml</a></link>
 <description>Ejercicio XML</description>
 </item>
 </channel>
