@@ -1,0 +1,59 @@
+body{
+	display:grid;
+	grid-template-areas:
+	"header header header"
+	"nav article ads"
+	"footer footer footer";
+	grid-template-rows:50px 1fr 50px;
+	grid-template-columns:20% 1fr 15%;
+	grid-grap:5px;
+	height:100vh;
+	margin:0;
+	
+	
+	
+}
+
+
+header, footer, article, nav, aside{
+	padding:15px;
+	
+	
+}
+
+
+#header{
+	grid-area:header;
+	margin:2px;
+	background-color:green;
+}
+#footer{
+	grid-area:footer;
+	margin:2px;
+	background-color:brown;
+
+}
+
+#article{
+	grid-area:article;
+	margin:2px;
+	background-color:blue;
+
+}
+
+#nav{
+	grid-area:nav;
+	margin:2px;
+	background-color:grey;
+}
+#aside{
+	grid-area:ads;
+	margin:2px;
+	background-color:black;
+}
+
+
+
+	
+	
+

@@ -1,0 +1,35 @@
+header, footer {
+    background: grey;
+    height: 15vw;
+}
+#main {
+    display: flex;
+    min-height: 70vw;
+}
+#main > article {
+    flex: 1;
+}
+#main > nav,{
+order:-1;
+}	
+
+#main > aside {
+    flex: 0 0 20vw;
+    background: beige;
+}
+#main > nav {
+    order: -1;
+}
+body {
+    margin: 0;
+}
+header, footer, article, nav, aside {
+    padding: 1vw;
+}
+*{
+-webkit-box-sizing:border-box;
+	 box-sizing:border-box;
+	-moz-box-sizing:border-box;
+}
+	
+

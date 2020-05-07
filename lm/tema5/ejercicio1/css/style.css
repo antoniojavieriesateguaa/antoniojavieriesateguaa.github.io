@@ -1,0 +1,26 @@
+body{
+width:500px;
+margin:0px;
+}
+
+p{
+background-color:aqua;
+border:3px;
+margin:10px;
+
+
+}
+
+span{
+	background-color:red;
+	border:1px;
+	
+}
+
+.positioneed
+{
+position:relative;
+top:30px;
+left:30px;
+background-color:yellow;
+}
